@@ -1,0 +1,14 @@
+C:\Users\escob\Documents\Repositorio\TaskManagerConsole\bin\Debug\net8.0\TaskManagerConsole.exe
+C:\Users\escob\Documents\Repositorio\TaskManagerConsole\bin\Debug\net8.0\TaskManagerConsole.deps.json
+C:\Users\escob\Documents\Repositorio\TaskManagerConsole\bin\Debug\net8.0\TaskManagerConsole.runtimeconfig.json
+C:\Users\escob\Documents\Repositorio\TaskManagerConsole\bin\Debug\net8.0\TaskManagerConsole.dll
+C:\Users\escob\Documents\Repositorio\TaskManagerConsole\bin\Debug\net8.0\TaskManagerConsole.pdb
+C:\Users\escob\Documents\Repositorio\TaskManagerConsole\obj\Debug\net8.0\TaskManagerConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\escob\Documents\Repositorio\TaskManagerConsole\obj\Debug\net8.0\TaskManagerConsole.AssemblyInfoInputs.cache
+C:\Users\escob\Documents\Repositorio\TaskManagerConsole\obj\Debug\net8.0\TaskManagerConsole.AssemblyInfo.cs
+C:\Users\escob\Documents\Repositorio\TaskManagerConsole\obj\Debug\net8.0\TaskManagerConsole.csproj.CoreCompileInputs.cache
+C:\Users\escob\Documents\Repositorio\TaskManagerConsole\obj\Debug\net8.0\TaskManagerConsole.dll
+C:\Users\escob\Documents\Repositorio\TaskManagerConsole\obj\Debug\net8.0\refint\TaskManagerConsole.dll
+C:\Users\escob\Documents\Repositorio\TaskManagerConsole\obj\Debug\net8.0\TaskManagerConsole.pdb
+C:\Users\escob\Documents\Repositorio\TaskManagerConsole\obj\Debug\net8.0\TaskManagerConsole.genruntimeconfig.cache
+C:\Users\escob\Documents\Repositorio\TaskManagerConsole\obj\Debug\net8.0\ref\TaskManagerConsole.dll

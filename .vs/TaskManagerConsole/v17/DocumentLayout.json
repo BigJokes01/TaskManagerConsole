@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\escob\\Documents\\Repositorio\\TaskManagerConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1F4C21-4A83-4194-90A4-8D53D89DA7F2}|TaskManagerConsole.csproj|c:\\users\\escob\\documents\\repositorio\\taskmanagerconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1F4C21-4A83-4194-90A4-8D53D89DA7F2}|TaskManagerConsole.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1F4C21-4A83-4194-90A4-8D53D89DA7F2}|TaskManagerConsole.csproj|c:\\users\\escob\\documents\\repositorio\\taskmanagerconsole\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1F4C21-4A83-4194-90A4-8D53D89DA7F2}|TaskManagerConsole.csproj|solutionrelative:task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\escob\\Documents\\Repositorio\\TaskManagerConsole\\Task.cs",
+              "RelativeDocumentMoniker": "Task.cs",
+              "ToolTip": "C:\\Users\\escob\\Documents\\Repositorio\\TaskManagerConsole\\Task.cs",
+              "RelativeToolTip": "Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T00:22:49.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\escob\\Documents\\Repositorio\\TaskManagerConsole\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\escob\\Documents\\Repositorio\\TaskManagerConsole\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAA1wKkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T00:20:19.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
